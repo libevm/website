@@ -1,0 +1,18 @@
+# html lang
+language: en
+
+# main menu navigation
+menu:
+  Home: /
+  About: /about
+
+# stylesheets loaded in the <head>
+stylesheets:
+  - /css/oasis.css
+
+# scripts loaded in the end of the body
+scripts:
+  - /js/oasis.js
+
+logo:
+  - ./assets/logo.png
