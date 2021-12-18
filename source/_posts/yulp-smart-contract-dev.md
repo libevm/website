@@ -185,7 +185,7 @@ function test_yulp_sandwich_deploy() public {
 
 And bada bing bada boom, you can now leverage existing Solidity tooling onto your Yul+ development pipeline with very minimal custom scripting.
 
-Focus on writing code, not ricing your desktop. Little known fact: Vitalik Buterin uses the default floating window manager on Ubuntu, so do what you will with that information.
+Focus on writing code that adds value, not ricing your desktop. Little known fact: Vitalik Buterin uses the default floating window manager on Ubuntu, so do what you will with that information.
 
 And as always, follow my [twitter](https://twitter.com/libevm) for more content like this!
 
