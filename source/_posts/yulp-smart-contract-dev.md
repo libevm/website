@@ -61,7 +61,7 @@ Well,
 
 - God-like debugger
 - Informative stacktraces
-- Rocks-solid EVM emulation (thanks Haskell!)
+- Rock-solid EVM emulation (thanks Haskell!)
 
 That cool.... but doesn't [dapp.tools](https//dapp.tools) only support Solidiy? Well, yes, until FFI dropped. With FFI you can now compile your contracts from whatever medium, and as long as you can log out the EVM compatible bytecode to stdout, you can use [dapp.tools](https://dapp.tools) as your development framework.
 
