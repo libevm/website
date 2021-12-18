@@ -51,7 +51,7 @@ To get syntax highlighting with Yul+ files, I use VSode and the Solidity plugin 
 
 The official [Yul+](https://github.com/FuelLabs/yulp) 'compiler' is written JavaScript, and actually compiles Yul+ down to Yul before turning it into bytecode.
 
-Thus, as of right now you'll still need a custom JS script to compile your Yul+ source code into EVM compatiable bytecode.
+Thus, as of right now you'll still need a custom JS script to compile your Yul+ source code into EVM compatible bytecode.
 
 ## Shoehorning Yul+ to work with dapp.tools
 
@@ -63,7 +63,7 @@ Well,
 - Informative stacktraces
 - Rocks-solid EVM emulation (thanks Haskell!)
 
-That cool.... but doesn't [dapp.tools](https//dapp.tools) only support Solidiy? Well, yes, until FFI dropped. With FFI you can now compile your contracts from whatever medium, and as long as you can log out the EVM compatiable bytecode to stdout, you can use [daap.tools](https://dapp.tools) as your development framework.
+That cool.... but doesn't [dapp.tools](https//dapp.tools) only support Solidiy? Well, yes, until FFI dropped. With FFI you can now compile your contracts from whatever medium, and as long as you can log out the EVM compatible bytecode to stdout, you can use [daap.tools](https://dapp.tools) as your development framework.
 
 ### Compiling
 
