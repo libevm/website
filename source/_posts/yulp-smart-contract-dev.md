@@ -14,7 +14,7 @@ However, according to serial CEO [@samczsun](https://twitter.com/samczsun) (CEO 
 
 ![](https://i.imgur.com/l2zRZbI.png)
 
-Being the ~~naive~~ curious chap I was, I decided to try out Yul+ for myself, and see if those Yul+ coomers were really onto something or if its was .
+Being the ~~naive~~ curious chap I was, I decided to try out Yul+ for myself, and see if those Yul+ coomers were really onto something or if it was just coomer talk.
 
 But, before I could really write any code, I was already cucked by the dev tooling environment -- apart from [ControlCplusControlV's Yul+ plugin for hardhat](https://github.com/ControlCplusControlV/hardhat-Yul) (which I couldn't get working), there wasn't really anything substancial out there in the wild. The only other thing I could really find was the [fuel-v1-contracts](https://github.com/FuelLabs/fuel-v1-contracts), but the build environment and tooling was incredibly custom and specific to their setup.
 
@@ -63,7 +63,7 @@ Well,
 - Informative stacktraces
 - Rocks-solid EVM emulation (thanks Haskell!)
 
-That cool.... but doesn't [dapp.tools](https//dapp.tools) only support Solidiy? Well, yes, until FFI dropped. With FFI you can now compile your contracts from whatever medium, and as long as you can log out the EVM compatible bytecode to stdout, you can use [daap.tools](https://dapp.tools) as your development framework.
+That cool.... but doesn't [dapp.tools](https//dapp.tools) only support Solidiy? Well, yes, until FFI dropped. With FFI you can now compile your contracts from whatever medium, and as long as you can log out the EVM compatible bytecode to stdout, you can use [dapp.tools](https://dapp.tools) as your development framework.
 
 ### Compiling
 
