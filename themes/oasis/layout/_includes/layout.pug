@@ -27,7 +27,7 @@ html(lang=config.language)
         nav#menu-inner
           - console.log(page.path)
           if is_post() || is_category() || is_tag()
-            a#menu-back(href="javascript:history.back()") Back
+            a#menu-back(href=config.url) Back
             if is_post()
               time(datetime=page.date.toJSON())= date(page.date, date_format)
           else
