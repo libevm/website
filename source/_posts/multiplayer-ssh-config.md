@@ -37,3 +37,12 @@ Host remote-vpc
         IdentityFile ~/.ssh/aws_key
         StrictHostKeyChecking no
 ```
+
+Git configuration for multiplayer
+
+```bash
+git commit --date="$(TZ=PST date)" -m "MESSAGE"
+
+git config user.email "gmail.com"
+git config user.name "libevm"
+```
