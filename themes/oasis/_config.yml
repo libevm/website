@@ -4,6 +4,7 @@ language: en
 # main menu navigation
 menu:
   Home: /
+  Threads: /threads
   About: /about
 
 # stylesheets loaded in the <head>
