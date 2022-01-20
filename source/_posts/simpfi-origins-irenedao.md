@@ -83,7 +83,7 @@ The queen had followed me back. From that point onward, I knew that my DMs and y
 
 ![](https://i.imgur.com/wFjTHV4.png)
 
-Now, I had tier-3 sub DM access, but I had plan the DMs too, the two things I was concerned about:
+Now, I had tier-3 sub DM access, but I had to plan the DMs too, the two things I was concerned about:
 
 - I didn't want to be a clown that instantly texts back
 - I needed to take into account timezones
