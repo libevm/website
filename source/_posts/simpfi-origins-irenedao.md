@@ -127,6 +127,7 @@ Me being a total boomer did not know the best way to handle this, but luckily a 
 The IreneDAO project eventually started to have a life of its own. And as with many things on the internet, people were spreading misinformation / fud:
 
 - This is just a cash grab
+    - We receive 0 cents from this
 - Irene is just a model, its actually X doing Y behind the scenes
 
 Then, the cyberbullying started pouring in, name calling, ad hominem attacks, you name it, it was there.
