@@ -11,7 +11,7 @@ date: 2022-01-20
 
 There's been quite a bit of misinformation going around recently surrounding [IreneDAO](https://twitter.com/0xirenedao), and, I've typed this story out one too many times.
 
-So, in attempt to do justice to [IreneDAO](https://twitter.com/0xirenedao) brand, I'll layout the who/how/why/what of the timeline from **my perspective** in a longer format.
+So, in attempt to do justice to the [IreneDAO](https://twitter.com/0xirenedao) brand, I'll layout the who/how/why/what of the timeline from **my perspective** in a longer format.
 
 ![](https://i.imgur.com/EIU1t3b.png)
 
@@ -44,7 +44,7 @@ I thought I would start off by finding out how did "socol" (the only branding fr
 - Did they get her permission?
 - Or was it a execute first, ask for forgiveness later sort of deal?
 
-I also knew that to get her attention, I would need to be a bit loud. From experience, ["learning in public"](https://www.libevm.com/2021/12/18/yulp-smart-contract-dev/) generated a lot of noise on the bird bird app, so I thought, why couldn't I do the same with simping? And so, "simp in public" I did.
+I also knew that to get her attention, I would need to be a bit loud. From experience, ["learning in public"](https://www.libevm.com/2021/12/18/yulp-smart-contract-dev/) generated a lot of noise on the blue bird app, so I thought, why couldn't I do the same with simping? And so, "simp in public" I did.
 
 I started by [enquiring more](https://twitter.com/libevm/status/1481220818961338368) about the sticker packs from the tiny "so-col" logo at the bottom:
 
