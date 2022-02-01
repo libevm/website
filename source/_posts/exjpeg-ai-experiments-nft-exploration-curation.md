@@ -66,7 +66,7 @@ I am a big fan of reusing pre-existing tools (aka my frontend skills are terribl
 
 The first NFT project that I'll be processing will be BAYC because why not. If you'd like to play around with it in fullscreen, check out [ExJpeg](https://exjpeg.com).
 
-<iframe width="100%" height="500" src="https://exjpeg.com/bayc" frameborder="40"></iframe>
+<iframe width="100%" height="500" src="https://exjpeg.com/bayc_killergf/" frameborder="40"></iframe>
 
 I know, the model currently sucks, I'll be updating it from time to time, but its a good enough for a proof of concept for now.
 
