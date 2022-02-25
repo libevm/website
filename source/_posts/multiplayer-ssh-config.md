@@ -46,3 +46,10 @@ git commit --date="$(TZ=PST date)" -m "MESSAGE"
 git config user.email "gmail.com"
 git config user.name "libevm"
 ```
+
+To prevent myself from accidentally leaking my real email, I config the global username to be the default Ubuntu user
+
+```
+git config --global user.name "Ubuntu"
+git config --global user.email user@ubuntu.com
+```
