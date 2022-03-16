@@ -40,6 +40,20 @@ v3router.exactOutput(
 );
 ```
 
+## Quotes
+
+```javascript
+IQuoter v3Quoter = IQuoter(0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6);
+
+uint256 amountOut1 = v3Quoter.quoteExactInputSingle(
+    address(weth),
+    address(snx),
+    fee,
+    1e18,
+    0
+);
+```
+
 ## Adding Liquidity
 
 ```javascript
