@@ -4,6 +4,7 @@ title: Threads
 
 A compilation of my twitter threads
 
+- [Optional Access Lists](https://twitter.com/libevm/status/1523141360076812288)
 - [UniswapV2Call protection](https://twitter.com/libevm/status/1476034043724533764)
 - [Vanity address significance](https://twitter.com/libevm/status/1474160795982254080)
 - [Contract reinit significance](https://twitter.com/libevm/status/1468390867996086275)
