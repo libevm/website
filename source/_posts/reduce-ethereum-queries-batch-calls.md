@@ -11,7 +11,7 @@ Luckily, I am here to help you avoid that. This post will teach you how to retri
 
 ## Multicall2
 
-To achieve this, we will be using [multicall2](https://github.com/makerdao/multicall/blob/master/src/Multicall2.sol) today, and its made by the [MakerDAO](https://makerdao.com/) team so you already know its big brained.
+To achieve this, we will be using [multicall2](https://github.com/makerdao/multicall/blob/master/src/Multicall2.sol), which is made by the [MakerDAO](https://makerdao.com/) team so you already know its pretty big brained.
 
 Multicall2 is a contract that is [deployed on Ethereum mainnet](https://etherscan.io/address/0x9695fa23b27022c7dd752b7d64bb5900677ecc21#code) that lives on address `0x9695fa23b27022c7dd752b7d64bb5900677ecc21`. If you'd like to interface with it on your local testnet, all you have to do is fork mainnet or redeploy the contract.
 
