@@ -3,6 +3,8 @@ title: Reducing the Number of Queries to Ethereum
 date: 2022-12-23
 ---
 
+<img src="https://i.imgur.com/WGiMynC.jpg" width="500"/>
+
 For most Dapps to function, they need to have the latest state -- that means querying the Ethereum blockchain <strong>every block</strong>. So, optimize your queries now before you land yourself a 5 figure AWS bill because you chose an elastic VPS 😎.
 
 Luckily I will help you avoid that and teach you how to retrieve any amount of non-dependent data from Ethereum within a single query. Lets go!
